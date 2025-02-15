@@ -1,0 +1,22 @@
+.contact-section {
+    padding: 80px 0;
+    background-color: #f8f9fa;
+}
+.contact-form {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.contact-info {
+    background: #007bff;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+.contact-info h4 {
+    margin-bottom: 15px;
+}
+.contact-info p {
+    margin-bottom: 10px;
+}
