@@ -26,4 +26,6 @@ a. Beautiful Collapsible 5 question & answer using JavaScript
 7. CSS framework
 8. Unordered list of food items using CSS styles (Background color, Hover effect, Border, Radius, without using framework help)
 9. External link with 'target' blank attribute
-10. Current Date & Time using JavaScript 11. Include External CSS & JavaScript file 12. Internal pages linking
+10. Current Date & Time using JavaScript 
+11. Include External CSS & JavaScript file 
+12. Internal pages linking
