@@ -9,3 +9,76 @@
 body{
     font-family: "Lato", serif; 
 }
+
+/* Header section */
+.head-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+.head-image img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.head-content h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
+.head-content p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 15px;
+}
+.signature {
+    font-style: italic;
+    font-weight: bold;
+    color: #007bff;
+}
+/* Courses section  */
+.courses-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+.course-card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+.course-card:hover {
+    transform: translateY(-5px);
+}
+.course-card img {
+    height: 200px;
+    object-fit: cover;
+}
+.course-card .card-body {
+    text-align: center;
+}
+.course-card .btn {
+    font-size: 1rem;
+    border-radius: 5px;
+}
+/* Gallery section */
+.gallery-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+.gallery-item {
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+.gallery-item img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+.gallery-item:hover img {
+    transform: scale(1.05);
+}
